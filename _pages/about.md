@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianfang Chen's Homepage"
+title: "Tiānfàng Chén's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
