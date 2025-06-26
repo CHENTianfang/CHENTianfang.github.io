@@ -3,7 +3,7 @@ permalink: /information/
 title: "Tiānfàng Chén's Personal Information"
 author_profile: true
 redirect_from: 
-  - /information/
+  - /info/
   - /information.html
 ---
 
