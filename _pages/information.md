@@ -7,6 +7,38 @@ redirect_from:
   - /information.html
 ---
 
-I'm an incoming **MPhil student in Linguistics, Philology and Phonetics** at the [University of Oxford](https://www.ox.ac.uk/) starting October 2025.
+### About My Names
 
-**Research areas:** Experimental and computational pragmatics; [Super linguistics](https://link.springer.com/article/10.1007/s10988-022-09377-8); Cognitive science.
+My official name is "陈天放" (pronounced [ʈʂʰən³⁵ tʰjɛn⁵⁵ fɑŋ⁵¹]). Here 陈 is my family name, one of Guangdong's most common surnames, 天放 derives from a philosophical concept in the *"Horse Hoofs"* chapter of **《Zhuangzi》**. This name merges 天 symbolizing cosmic order with 放 embodying spiritual liberation, epitomizing **heaven-sent emancipation** like wild stallions galloping under open skies.
+
+---
+
+### Language Skills
+
+• Chinese: Native (Mandarin, Hakka, Cantonese)  
+• English: Fluent  
+• Japanese: Proficient  
+• French: Proficient in reading  
+• Conlang: Just for fun (Esperanto, Solresol)
+
+---
+
+### Education Background
+
+MPhil in Linguistics, Philology and Phonetics (2027)  
+Faculty of Linguistics, Philology and Phonetics, University of Oxford, UK
+
+BPhil in Logic, Psychology minor (2025)  
+Department of Philosophy, Sun Yat-sen University, China  
+Thesis: The Model and Experimental Study of Rational Speech Acts under Semantic Deviation  
+Supervisor: Assoc. Prof. Liping Tang
+
+---
+
+### Hobbies
+
+• Jogging  
+• Composition & Arrangement  
+• Vocaloid
+
+---
