@@ -9,7 +9,7 @@ redirect_from:
 
 ### About My Names
 
-My official name is "陈天放" (pronounced [ʈʂʰən³⁵ tʰjɛn⁵⁵ fɑŋ⁵¹]). Here 陈 is my family name, one of Guangdong's most common surnames, 天放 derives from a philosophical concept in the *"Horses's Hoofs"* chapter of 《Zhuangzi》. This name merges 天 symbolizing cosmic order with 放 embodying spiritual liberation, epitomizing **heaven-sent emancipation** like wild stallions galloping under open skies.
+My official name is "陈天放" (pronounced [ʈʂʰən³⁵ tʰjɛn⁵⁵ fɑŋ⁵¹]). Here 陈 is my family name, one of Guangdong's most common surnames, 天放 derives from a philosophical concept in the "Horses's Hoofs" chapter of *Zhuangzi*. This name merges 天 symbolizing cosmic order with 放 embodying spiritual liberation, epitomizing **heaven-sent emancipation** like wild stallions galloping under open skies.
 
 ---
 
