@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "tf-bio-photo.png"
   name             : "Tiānfàng Chén"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"  
   bio              : "Incoming LPP MPhil Student at Oxford"
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
