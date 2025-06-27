@@ -28,7 +28,10 @@ main:
 
   - title: "RESEARCH"
     url: /research/
-
+    
+  - title: "EVENTS"
+    url: /event/
+    
   - title: "PERSONAL INFORMATION"
     url: /information/
 
