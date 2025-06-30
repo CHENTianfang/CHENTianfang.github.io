@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an incoming **MPhil student in Linguistics, Philology and Phonetics** at the [University of Oxford](https://www.ox.ac.uk/) starting October 2025.
 
-**Focus:** Experimental and computational pragmatics; [Super linguistics](https://link.springer.com/article/10.1007/s10988-022-09377-8); Cognitive science.
+**Focus:** Experimental and computational semantics & pragmatics; [Super linguistics](https://link.springer.com/article/10.1007/s10988-022-09377-8) (specifically music); Cognitive science.
 
 A fundamental ontological question persists in the philosophy of language: whether linguistic competence finds its primary locus within the individual mind, conceptualized as an idiolect or I-language (in the Chomskian sense, where language is an internal cognitive system exhaustively specifiable by intrinsic properties of the individual), or whether it is constitutively dependent on external, socially constituted conventions, conceptualized as a social language or E-language (in the Lewisian sense, where language is a public practice governed by mutual expectations of truthfulness and trust within a population). This debate centers on the issue of ontological priority – does the individual’s internal linguistic faculty provide the foundational basis upon which social conventions supervene, or are the very properties of an individual’s language irreducibly determined by their embedding within a pre-existing social-linguistic framework?
 
