@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I graduated in 2025 from Sun Yat-sen University with a Bachelor of Philosophy in Logic, minoring in Psychology.
+# About Me
 
-From 2025 to 2027, I will be pursuing an MPhil in Linguistics, Philology, and Phonetics at the University of Oxford.
+I obtained a Bachelor of Philosophy in Logic from Sun Yat-sen University in 2025, with a minor in Psychology.
 
-My research focuses on cognitive science, and I have a strong interest in the philosophy of language and super-linguistics (music).
+From 2025 to 2027, I will be pursuing an MPhil in Linguistics, Philology, and Phonetics at Oxford.
+
+My research focuses on Cognitive Science, with a strong interest in Philosophy of Language and Super Linguistics (music).
