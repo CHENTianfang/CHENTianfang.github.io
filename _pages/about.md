@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming <strong>MPhil student in Linguistics, Philology and Phonetics</strong> at the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a> starting October 2025.
+I graduated in 2025 from Sun Yat-sen University with a Bachelor of Philosophy in Logic, minoring in Psychology.
 
-<strong>Focus:</strong> Experimental and computational semantics & pragmatics; <a href="https://link.springer.com/article/10.1007/s10988-022-09377-8" target="_blank">Super linguistics</a> (specifically music); Cognitive science.
+From 2025 to 2027, I will be pursuing an MPhil in Linguistics, Philology, and Phonetics at the University of Oxford.
 
-A fundamental ontological question persists in the philosophy of language: whether linguistic competence finds its primary locus within the individual mind, conceptualized as an idiolect or I-language (in the Chomskian sense, where language is an internal cognitive system exhaustively specifiable by intrinsic properties of the individual), or whether it is constitutively dependent on external, socially constituted conventions, conceptualized as a social language or E-language (in the Lewisian sense, where language is a public practice governed by mutual expectations of truthfulness and trust within a population). This debate centers on the issue of ontological priority – does the individual's internal linguistic faculty provide the foundational basis upon which social conventions supervene, or are the very properties of an individual's language irreducibly determined by their embedding within a pre-existing social-linguistic framework?
-
-In my future studies, I aim to explore this fundamental ontological question surrounding linguistic competence. Using computational and experimental methods, I hope to gain deeper insights into the relationship between the individual and social aspects of language. This research will likely span over a decade, if not longer, but I believe the pursuit is deeply worthwhile. It holds the potential to reshape our understanding of language, both in its individual and societal dimensions, and contribute meaningfully to the intersection of linguistics, philosophy, and computational modeling.
+My research focuses on cognitive science, and I have a strong interest in the philosophy of language and super-linguistics (music).
