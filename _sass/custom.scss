@@ -1,12 +1,35 @@
+/* ================================
+   Custom global overrides
+   PC: max-width 90%
+   Mobile: full width
+   ================================ */
+
+/* 宽度覆盖 */
+.page,
+.page__inner-wrap,
 .page__content,
-.wrapper {
-  max-width: 100% !important;
+.main {
+  max-width: 90% !important;  /* PC 上最大宽度 */
   width: 90% !important;
-  margin: auto;
+  margin: auto;               /* 居中 */
 }
 
+/* 段落对齐 */
 .justify-para {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
+}
+
+/* 手机屏幕自适应 */
+@media (max-width: 768px) {
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .main {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
