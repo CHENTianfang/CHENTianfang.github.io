@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "tf-bio-photo.png"
-  name             : "Tiānfàng Chén"
-  pronouns         : # "he/his"  
-  bio              : "[ʈʂʰən³⁵ tʰjɛn⁵⁵ fɑŋ⁵¹]"
+  name             : "Tianfang Chen"
+  pronouns         : # "he/his"
+  bio              : "[ʈʂʰən³⁵tʰjɛn⁵⁵ fɑŋ⁵¹]"
   location         : # "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
