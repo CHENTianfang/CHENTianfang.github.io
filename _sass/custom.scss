@@ -1,4 +1,6 @@
-/* 全局宽度覆盖 */
+/* =========================
+   全局宽度和布局调整
+   ========================= */
 .page,
 .page__inner-wrap,
 .page__content,
@@ -8,9 +10,51 @@
   margin: auto;
 }
 
-/* 段落对齐 */
+/* =========================
+   段落对齐
+   ========================= */
 .page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  hyphens: auto !important;
+  line-height: 1.6; /* 增加可读性 */
+}
+
+/* =========================
+   作者头像布局
+   ========================= */
+.author-profile {
+  float: left;
+  width: 150px;          /* 根据需要调整 */
+  margin-right: 20px;    /* 与正文保持距离 */
+  margin-bottom: 20px;
+}
+
+/* 确保正文不会被头像遮挡 */
+.page__content {
+  overflow: hidden; /* 清除浮动对布局的影响 */
+}
+
+/* =========================
+   响应式调整（移动端）
+   ========================= */
+@media (max-width: 768px) {
+  .author-profile {
+    float: none;
+    width: 100%;
+    margin: 0 0 20px 0;  /* 底部留空，顶部对齐 */
+  }
+
+  .page__content {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+/* =========================
+   可选：正文字体和行距微调
+   ========================= */
+.page__content {
+  font-size: 16px;
+  line-height: 1.7;
 }
